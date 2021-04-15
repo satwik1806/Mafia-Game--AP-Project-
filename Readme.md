@@ -1,8 +1,5 @@
 # Mafia
-
-<p align="center">
-  <img src="https://github.com/satwik1806/Mafia-Game--AP-Project/blob/main/Mafia.png" width="400" height="400"/>
-</p>
+<img width="354" alt="Mafia" src="https://user-images.githubusercontent.com/53432706/114874100-9c627000-9e19-11eb-8484-fadf969e42a1.png">
 
 ### Mafia is a popular party game that requires one to think, manipulate, and deceive others in order to win. Since the pandemic, it has become rather difficult for people to host parties so this is a mafia game simulator.
 
